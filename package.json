@@ -1,11 +1,22 @@
 {
   "name": "autofileheader",
   "displayName": "AutoFileHeader",
-  "description": "",
+	"publisher": "timerring",
   "version": "0.0.1",
+	"author": {
+		"name": "John Howe",
+		"email": "timerring@gmail.com"
+	},
+  "description": "Auto generate the file header.",
   "engines": {
     "vscode": "^1.94.0"
   },
+  "keywords": [
+		"file header",
+		"comment",
+		"header",
+		"automate"
+	],
   "categories": [
     "Other"
   ],
